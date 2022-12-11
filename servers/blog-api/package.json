@@ -13,7 +13,7 @@
 	"dependencies": {
 		"ajv": "^6.10.2",
 		"bunyan": "^1.8.12",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"jsonwebtoken": "^8.5.1",
 		"redis": "^2.8.0"
 	},
